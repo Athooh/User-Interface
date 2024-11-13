@@ -89,7 +89,7 @@ Each page includes:
 ### **Access the Files**  
 
 The complete set of deliverables for each project is available on GitHub:  
-[GitHub Repository Link](https://github.com/Athooh/User-Interface/tree/main/atomic-design)
+[GitHub Repository Link](https://github.com/Athooh/User-Interface/atomic-design)
 
 ---
 
