@@ -55,7 +55,7 @@ Example: Doe_John_Grids_11142024_V1
 
 You can find all the Figma files in this repository under the following GitHub link:
 
-[GitHub Repository](https://github.com/Athooh/Rules)
+[GitHub Repository](https://github.com/Athooh/User-Interface/tree/main/rules)
 
 ---
 
