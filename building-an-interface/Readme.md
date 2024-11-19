@@ -24,7 +24,7 @@ The goal of this project was to assess whether the design aligns with its intend
 ## **How to Access the Files**  
 All project deliverables are available in this repository. To access them:  
 
-1. Visit my GitHub repository: [GitHub Repository Link](https://github.com/Athooh)  
+1. Visit my GitHub repository: [GitHub Repository Link]([(https://github.com/Athooh/User-Interface/tree/main/building-an-interface])  
 2. Navigate to the `Desirability_Testing_Project` folder to find all the files.  
 
 ## **Contact Information**  
